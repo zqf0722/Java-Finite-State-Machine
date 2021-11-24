@@ -1,5 +1,9 @@
 # Compiled class file
-*.class
+Fsm/doc/*.*
+My_Action.class
+My_*
+ValidEvent.class
+
 
 # Log file
 *.log
